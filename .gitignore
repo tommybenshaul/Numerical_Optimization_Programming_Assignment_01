@@ -12,5 +12,3 @@ venv/
 # Ignore system files
 .DS_Store
 
-# Ignore plot images
-plots/
