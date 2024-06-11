@@ -1,0 +1,12 @@
+1 Quadratic Circles (gradient_descent, use_wolfe=True) - Final iterate: [0. 0.], Final objective value: 0.0, Success: True
+1 Quadratic Circles (newtons_method, use_wolfe=True) - Final iterate: [0. 0.], Final objective value: 0.0, Success: True
+2 Quadratic Axis-Aligned Ellipses (gradient_descent, use_wolfe=True) - Final iterate: [0.11271997 0.0008856 ], Final objective value: 0.0063921100476996475, Success: False
+2 Quadratic Axis-Aligned Ellipses (newtons_method, use_wolfe=True) - Final iterate: [0. 0.], Final objective value: 0.0, Success: True
+3 Quadratic Rotated Ellipses (gradient_descent, use_wolfe=True) - Final iterate: [0.07682763 0.13062022], Final objective value: 0.011556292096350205, Success: False
+3 Quadratic Rotated Ellipses (newtons_method, use_wolfe=True) - Final iterate: [2.95822839e-31 5.91645679e-31], Final objective value: 2.9653022927106668e-61, Success: True
+4 Rosenbrock Function (gradient_descent, use_wolfe=True) - Final iterate: [0.99989279 0.9997858 ], Final objective value: 1.1497182376823346e-08, Success: True
+4 Rosenbrock Function (newtons_method, use_wolfe=True) - Final iterate: [1. 1.], Final objective value: 6.668339839446365e-30, Success: True
+5 Linear Function (gradient_descent, use_wolfe=True) - Final iterate: [1. 1.], Final objective value: 3.0, Success: True
+5 Linear Function (newtons_method, use_wolfe=True) - Final iterate: [1. 1.], Final objective value: 3.0, Success: True
+6 Exponential Function (gradient_descent, use_wolfe=True) - Final iterate: [-3.46572886e-01 -9.76799665e-07], Final objective value: 2.559266696664345, Success: True
+6 Exponential Function (newtons_method, use_wolfe=True) - Final iterate: [-3.46573590e-01 -1.74552516e-17], Final objective value: 2.5592666966582156, Success: True
